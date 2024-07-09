@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pablomelo-inf
-- 👀 I’m interested in PHP, JAVA, Python, JavaScript
+- 👀 I’m interested in PHP, JAVA, Python, JavaScript, React
 - 🌱 I’m currently learning cloud technologies to scaling applications 
-- 💞️ I’m looking to collaborate on projects relate solutions where  have  PHP, JAVA, Python, JavaScript
+- 💞️ I’m looking to collaborate on projects relate solutions where  have  PHP, JAVA, Python, JavaScript, React
 - 📫 How to reach me email: pablomelo.inf@gmail.com
 
 <!---
