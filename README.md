@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @pablomelo-inf
-- 👀 I’m interested in PHP, JAVA, Python, JavaScript, React
-- 🌱 I’m currently learning cloud technologies to scaling applications 
-- 💞️ I’m looking to collaborate on projects relate solutions where  have  PHP, JAVA, Python, JavaScript, React
-- 📫 How to reach me email: pablomelo.inf@gmail.com
-
-<!---
-pablomelo-inf/pablomelo-inf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m a Full-Stack Developer interested in **PHP, Java, Python, JavaScript, and React**
+- 🌱 I’m currently learning **cloud technologies and CI/CD** to build and scale reliable applications
+- 💞️ I’m looking to collaborate on projects involving **web development, backend APIs, and full-stack solutions**
+- 📫 You can reach me at: **pablomelo.inf@gmail.com**
